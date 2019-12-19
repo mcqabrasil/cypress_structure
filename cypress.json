@@ -1,0 +1,13 @@
+{
+    "projectId": "10000",
+    "baseUrl": "https://yoururl.com/",
+  
+    "ignoreTestFiles":"../GHomologation/cypress/integration/Pages/*.js",
+    "pageLoadTimeout":30000,
+    "env": {
+      "TypeHereYourEnvVariableName": "TypeHereYourEnvVariableData",
+      "TypeHereYourEnvVariableName2": "TypeHereYourEnvVariableData2"
+     
+    }
+  }
+  
